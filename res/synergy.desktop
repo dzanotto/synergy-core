@@ -2,6 +2,6 @@
 Name=Synergy
 Comment=Share your keyboard and mouse over a network
 Exec=synergy
-Icon=/usr/share/icons/synergy.ico
+Icon=synergy
 Type=Application
 Categories=Utility;
